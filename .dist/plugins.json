@@ -830,12 +830,12 @@
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/public/static/multisrc/lightnovelwp/pandamtl/icon.png"
 	},
 	{
-		"id": "pasteltales",
-		"name": "Pastel Tales",
-		"site": "https://pasteltales.com/",
+		"id": "mytest",
+		"name": "Mytest",
+		"site": "https://booktoki468.com/novel/",
 		"lang": "English",
 		"version": "1.0.6",
-		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/english/PastelTales[madara].js",
+		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/english/Mytest.js",
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/public/static/multisrc/madara/pasteltales/icon.png"
 	},
 	{
