@@ -12,8 +12,8 @@ class Syosetu implements Plugin.PluginBase {
   id = 'yomou.syosetu';
   name = 'Syosetu';
   icon = 'src/jp/syosetu/icon.png';
-  site = 'https://yomou.syosetu.com/';
-  novelPrefix = 'https://ncode.syosetu.com';
+  site = 'https://novel18.syosetu.com/';
+  novelPrefix = 'https://novel18.syosetu.com';
   version = '1.1.2';
   headers = {
     'User-Agent':
